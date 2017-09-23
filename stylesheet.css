@@ -1,0 +1,36 @@
+body {
+    background-color:#e6e3d8;
+}
+
+#header {
+    font-family:"Arvo";
+	color:#24e05c;
+	text-align:center;
+	font-size:30px;
+	background-color:#4024e0;
+	border:3px solid white;
+	padding:-5px;
+}
+#content {
+    background-color:#e08f24;
+    font-family:"Curtive Mono";
+    padding:7px;
+    border:3px solid white;
+}
+#navbar {
+    background-color:#a6e8cb;
+    padding:-1px;
+    text-align:center;
+    font-size:18px;
+    border:3px solid white;
+    font-family:"Lobster Two";
+    color:#19fc96;
+}
+#footer {
+    background-color:LightSkyBlue;
+    padding:-4px;
+    text-align:center;
+    font-family:"Abel";
+    font-weight:bolder;
+    border:3px solid #e67e5f;
+}
